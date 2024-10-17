@@ -78,7 +78,7 @@ Here are some assumptions made during the development of this project:
 
 ## System Design Diagram
 
-![Class Diagram](./code/class_diagram.png)
+![Class Diagram](./code/diagrams/class_diagram.png)
 
 This diagram outlines the relationships between `User`, `Product`, `Order`, and `Payment`. It illustrates how these entities interact with each other within the system.
 
