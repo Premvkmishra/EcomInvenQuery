@@ -84,5 +84,4 @@ This diagram outlines the relationships between `User`, `Product`, `Order`, and 
 
 ---
 
-Thank you for reviewing this submission! If you have any questions or need clarifications, please feel free to reach out.
 
